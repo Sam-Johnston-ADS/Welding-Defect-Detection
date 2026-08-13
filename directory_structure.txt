@@ -1,0 +1,208 @@
+E:\weld-defect-detection (1)\weld-defect-detection\data
+├── auto_labeled
+│   ├── visualizations
+│   └── test_crop.png
+├── raw
+├── rejected
+├── reviewed
+│   ├── RIAWELC
+│   │   └── DB - Copy
+│   │       ├── testing
+│   │       │   ├── Difetto1
+│   │       │   │   ├── RRT-101R_Img1_A80_S4__16__1_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S4__19__7_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S4__25__3_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S4__26__4_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S4__26__6_.png
+│   │       │   │   └── ...
+│   │       │   ├── Difetto2
+│   │       │   │   ├── RRT-102R_Img1_A80_S3__4__30_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S6__6__25_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S7__31__4_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S7__33__5_.png
+│   │       │   │   ├── RRT-102R_Img2_A80_S3__5__30_.png
+│   │       │   │   └── ...
+│   │       │   ├── Difetto4
+│   │       │   │   ├── RRT-107R_Img2_A80_S5__6__108_.png
+│   │       │   │   ├── RRT-107R_Img4_A80_S5__7__109_.png
+│   │       │   │   ├── RRT-20R_Img1_A80_S1__3__31_.png
+│   │       │   │   ├── RRT-20R_Img1_A80_S1__3__39_.png
+│   │       │   │   ├── RRT-20R_Img1_A80_S1__5__6_.png
+│   │       │   │   └── ...
+│   │       │   └── NoDifetto
+│   │       │       ├── RRT-09R_Img1_A80_S9__2__23_.png
+│   │       │       ├── RRT-101R_Img4_A80_S6__18__30_.png
+│   │       │       ├── RRT-101R_Img4_A80_S6__18__32_.png
+│   │       │       ├── RRT-101R_Img4_A80_S6__30__29_.png
+│   │       │       ├── RRT-101R_Img4_A80_S6__30__30_.png
+│   │       │       └── ...
+│   │       ├── training
+│   │       │   ├── Difetto1
+│   │       │   │   ├── RRT-101R_Img1_A80_S1__12__8_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S1__20__4_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S1__20__6_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S1__20__7_.png
+│   │       │   │   ├── RRT-101R_Img1_A80_S1__24__7_.png
+│   │       │   │   └── ...
+│   │       │   ├── Difetto2
+│   │       │   │   ├── RRT-102R_Img1_A80_S1__2__32_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S1__3__33_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S1__4__32_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S1__5__33_.png
+│   │       │   │   ├── RRT-102R_Img1_A80_S2__12__10_.png
+│   │       │   │   └── ...
+│   │       │   ├── Difetto4
+│   │       │   │   ├── RRT-107R_Img2_A80_S5__6__108_.png
+│   │       │   │   ├── RRT-107R_Img2_A80_S5__6__112_.png
+│   │       │   │   ├── RRT-107R_Img2_A80_S5__8__109_.png
+│   │       │   │   ├── RRT-107R_Img2_A80_S6__8__26_.png
+│   │       │   │   ├── RRT-107R_Img3_A80_S6__10__30_.png
+│   │       │   │   └── ...
+│   │       │   └── NoDifetto
+│   │       │       ├── RRT-09R_Img1_A80_S9__2__20_.png
+│   │       │       ├── RRT-09R_Img1_A80_S9__2__21_.png
+│   │       │       ├── RRT-09R_Img1_A80_S9__2__22_.png
+│   │       │       ├── RRT-09R_Img1_A80_S9__2__23_.png
+│   │       │       ├── RRT-09R_Img1_A80_S9__2__25_.png
+│   │       │       └── ...
+│   │       └── validation
+│   │           ├── Difetto1
+│   │           │   ├── RRT-101R_Img1_A80_S1__12__10_.png
+│   │           │   ├── RRT-101R_Img1_A80_S2__20__11_.png
+│   │           │   ├── RRT-101R_Img1_A80_S3__11__13_.png
+│   │           │   ├── RRT-101R_Img1_A80_S3__11__16_.png
+│   │           │   ├── RRT-101R_Img1_A80_S3__13__15_.png
+│   │           │   └── ...
+│   │           ├── Difetto2
+│   │           │   ├── RRT-102R_Img1_A80_S1__2__36_.png
+│   │           │   ├── RRT-102R_Img1_A80_S1__4__35_.png
+│   │           │   ├── RRT-102R_Img1_A80_S1__5__37_.png
+│   │           │   ├── RRT-102R_Img1_A80_S1__6__35_.png
+│   │           │   ├── RRT-102R_Img1_A80_S2__13__13_.png
+│   │           │   └── ...
+│   │           ├── Difetto4
+│   │           │   ├── RRT-107R_Img1_A80_S5__5__108_.png
+│   │           │   ├── RRT-107R_Img3_A80_S5__5__106_.png
+│   │           │   ├── RRT-107R_Img3_A80_S5__6__108_.png
+│   │           │   ├── RRT-107R_Img3_A80_S5__7__109_.png
+│   │           │   ├── RRT-107R_Img3_A80_S5__9__109_.png
+│   │           │   └── ...
+│   │           └── NoDifetto
+│   │               ├── RRT-101R_Img4_A80_S6__18__20_.png
+│   │               ├── RRT-101R_Img4_A80_S6__18__27_.png
+│   │               ├── RRT-101R_Img4_A80_S6__18__29_.png
+│   │               ├── RRT-101R_Img4_A80_S6__19__3_.png
+│   │               ├── RRT-101R_Img4_A80_S6__30__28_.png
+│   │               └── ...
+│   └── WDXI
+│       ├── combined
+│       │   ├── images
+│       │   │   ├── ds1_0000.png
+│       │   │   ├── ds1_0001.png
+│       │   │   ├── ds1_0002.png
+│       │   │   ├── ds1_0003.png
+│       │   │   ├── ds1_0004.png
+│       │   │   └── ...
+│       │   ├── labels
+│       │   │   ├── ds1_0000.png
+│       │   │   ├── ds1_0001.png
+│       │   │   ├── ds1_0002.png
+│       │   │   ├── ds1_0003.png
+│       │   │   ├── ds1_0004.png
+│       │   │   └── ...
+│       │   └── split.json
+│       ├── datasets1
+│       │   ├── images
+│       │   │   ├── 00000.png
+│       │   │   ├── 00001.png
+│       │   │   ├── 00002.png
+│       │   │   ├── 00003.png
+│       │   │   ├── 00004.png
+│       │   │   └── ...
+│       │   └── labels
+│       │       ├── 00000.png
+│       │       ├── 00001.png
+│       │       ├── 00002.png
+│       │       ├── 00003.png
+│       │       ├── 00004.png
+│       │       └── ...
+│       └── datasets2
+│           ├── images
+│           │   ├── 00000.png
+│           │   ├── 00001.png
+│           │   ├── 00002.png
+│           │   ├── 00003.png
+│           │   ├── 00004.png
+│           │   └── ...
+│           └── labels
+│               ├── 00000.png
+│               ├── 00001.png
+│               ├── 00002.png
+│               ├── 00003.png
+│               ├── 00004.png
+│               └── ...
+├── rfdetr_coco
+│   ├── annotations
+│   │   ├── testing.json
+│   │   ├── training.json
+│   │   └── validation.json
+│   ├── images
+│   │   ├── testing
+│   │   │   ├── 000000.png
+│   │   │   ├── 000001.png
+│   │   │   ├── 000002.png
+│   │   │   ├── 000003.png
+│   │   │   ├── 000004.png
+│   │   │   └── ...
+│   │   ├── training
+│   │   │   ├── 000000.png
+│   │   │   ├── 000001.png
+│   │   │   ├── 000002.png
+│   │   │   ├── 000003.png
+│   │   │   ├── 000004.png
+│   │   │   └── ...
+│   │   └── validation
+│   │       ├── 000000.png
+│   │       ├── 000001.png
+│   │       ├── 000002.png
+│   │       ├── 000003.png
+│   │       ├── 000004.png
+│   │       └── ...
+│   ├── test
+│   │   ├── 000000.png
+│   │   ├── 000001.png
+│   │   ├── 000002.png
+│   │   ├── 000003.png
+│   │   ├── 000004.png
+│   │   └── ...
+│   ├── train
+│   │   ├── 000000.png
+│   │   ├── 000001.png
+│   │   ├── 000002.png
+│   │   ├── 000003.png
+│   │   ├── 000004.png
+│   │   └── ...
+│   └── valid
+│       ├── 000000.png
+│       ├── 000001.png
+│       ├── 000002.png
+│       ├── 000003.png
+│       ├── 000004.png
+│       └── ...
+├── splits
+│   └── create_split.py
+└── test
+    ├── image
+    │   ├── ds1_0000.png
+    │   ├── ds1_0001.png
+    │   ├── ds1_0002.png
+    │   ├── ds1_0003.png
+    │   ├── ds1_0004.png
+    │   └── ...
+    └── mask
+        ├── ds1_0000.png
+        ├── ds1_0001.png
+        ├── ds1_0002.png
+        ├── ds1_0003.png
+        ├── ds1_0004.png
+        └── ...
