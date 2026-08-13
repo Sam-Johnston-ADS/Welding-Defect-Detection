@@ -66,7 +66,7 @@ generalization.
 | SegFormer v3 | MiT-B2, standard decoder, combined dataset | Yes | 0.8915 | 0.9418 |
 | SegFormer v4 | MiT-B2, standard decoder | **No (from scratch)** | 0.7332 | 0.8414 |
 | SegFormer v5 | MiT-B2 + Conv Stem | No | 0.5230* | — |
-| **SegFormer v6** | **MiT-B2 + Strip Pooling + ASPP + Boundary Head** | **No** | **~0.87** | **~0.93** |
+| **SegFormer v6** | **MiT-B2 + Strip Pooling + ASPP + Boundary Head** | **No** | **~0.89** | **~0.93** |
 | SAM2 + LoRA (v4-paired) | Box-prompt refinement | No | 0.8144 | 0.8922 |
 | SAM2 + LoRA (v6-paired, dense prompt) | Box + mask-prompt refinement | No | 0.8438 | — |
 
